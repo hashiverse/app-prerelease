@@ -1,0 +1,12 @@
+/*!
+ * DiceBear (@dicebear/core)
+ *
+ * Code licensed under MIT (https://github.com/dicebear/dicebear/blob/main/LICENSE)
+ * Copyright (c) 2024 Florian Körner
+ */
+
+/*!
+ * image-resize-compress
+ * Copyright(c) 2024 Álef Duarte
+ * MIT Licensed
+ */
